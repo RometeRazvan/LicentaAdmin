@@ -1,0 +1,35 @@
+{
+  "name": "be-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv": "^5.5.0",
+    "csv-parse": "^4.15.4",
+    "csv-parser": "^3.0.0",
+    "current-week-number": "^1.0.7",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mailgun-js": "^0.22.0",
+    "ml-dataset-iris": "^1.1.1",
+    "ml-random-forest": "^2.0.2",
+    "mongoose": "^5.12.12",
+    "mysql": "^2.18.1",
+    "node-csv": "^0.1.2",
+    "nodemailer": "^6.6.0",
+    "random-forest-classifier": "^0.6.0",
+    "request": "^2.88.2",
+    "util": "^0.12.3"
+  }
+}
